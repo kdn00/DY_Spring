@@ -19,7 +19,7 @@
 <body style="text-align: center;">
 <span class="badge bg-primary" style="color: whitesmoke;">@DYMini</span>
 <span class="badge bg-secondary" style="color: whitesmoke;">footer</span>
-<a href="https://github.com/kdn00/SpringProject" target="_blank"><span class="badge bg-success">사용 코드</span></a>
+<a href="https://github.com/kdn00/DY_Spring" target="_blank"><span class="badge bg-success">사용 코드</span></a>
 <span class="badge bg-danger">오류</span>
 <span class="badge bg-warning">Warning</span>
 <span class="badge bg-info">Info</span>
